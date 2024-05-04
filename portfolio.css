@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+header{
+    background-color: dimgray;
+    padding: 20px;
+    text-align: center;
+    
+}
+header h1{
+    margin-bottom: 2px;
+    margin-top:2px
+
+}
+#about{
+    padding: 20px;
+}
+#about img{
+    width: 200px;
+    clip-path: circle(50%);
+
+}
+#skills{
+    padding: 20px;
+}
+#project img{
+    width: 50%;
+    clip-path:circle(60%)
+}
+#project{
+   padding: 20px;
+}
+#resume{
+    padding: 20px;
+}
+#contact{
+    padding: 20px;
+}
+footer{
+    background-color: dimgray;
+    padding: 20px;
+    text-align: center;
+   
+}
+footer p {
+    margin-bottom: 2px;
+
+}
